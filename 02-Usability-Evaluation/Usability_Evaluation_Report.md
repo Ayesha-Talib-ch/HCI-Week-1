@@ -1,52 +1,42 @@
 # Usability Evaluation Report
-## Week 1 – Human-Computer Interaction
+## Limester – Food Delivery App
 
 ### 1. Introduction
-Human-Computer Interaction (HCI) focuses on designing interactive systems that are easy, efficient, and comfortable for people to use. This report evaluates the University of Agriculture Faisalabad website.
+For this usability evaluation, I selected the Limester Food Delivery App design from Figma. I explored five screens: Splash, Login, OTP Verification, Main Menu, and My Orders.
 
-### 2. Selected Website
-- Website Name: University of Agriculture Faisalabad (UAF)
-- Website URL: https://web.uaf.edu.pk/
-- Website Type: Educational Website
-- Target Users: Students, teachers, researchers, applicants, and visitors.
+### 2. Screenshots
+The screenshots are available in the `03-Screenshots` folder:
+1. 01-Splash.png
+2. 02-Login.png
+3. 03-OTP.png
+4. 04-Main-Menu.png
+5. 05-My-Orders.png
 
-### 3. Objectives
-- Identify possible usability problems.
-- Evaluate website navigation and content organization.
-- Examine readability and interface design.
-- Suggest improvements to user experience.
+### 3. Usability Evaluation
 
-### 4. Usability Evaluation
-
-| No. | Usability Problem | Impact on Users | Suggested Improvement |
+| Screen | What to Check | Possible Usability Issue | Suggested Improvement |
 |---|---|---|---|
-| 1 | Large amounts of information are displayed on the homepage. | Users may find it difficult to locate important information. | Organize information into clear categories. |
-| 2 | Some announcement titles contain spelling mistakes. | This may reduce professionalism and user confidence. | Proofread website content before publishing. |
-| 3 | Different announcements and notices appear together. | Students may struggle to find relevant notices. | Separate admissions, examinations, scholarships, and events. |
-| 4 | Some sections contain lengthy paragraphs. | Users may take more time to understand information. | Use shorter summaries and clear headings. |
-| 5 | Important information could be easier to locate. | Users may need extra time to navigate the website. | Improve navigation and provide a clear search option. |
+| Splash | App logo and loading | Users may not know whether the app is loading or stuck. | Add a clear loading indicator. |
+| Login | Login fields and buttons | Users may be unsure about required information or login errors. | Add clear field labels and helpful error messages. |
+| OTP | OTP input | Users may not know how to request a new OTP. | Add a visible resend OTP option and countdown. |
+| Main Menu | Food items and navigation | Users may find it difficult to identify categories or important actions. | Use clear categories, readable text, and consistent navigation. |
+| My Orders | Order information and status | Users may not easily understand the current status of an order. | Show clear order statuses and delivery progress. |
 
-### 5. HCI Principles
+*Note: These are potential usability issues to check against the actual design.*
 
-1. **Consistency:** Similar elements should have a consistent appearance.
-2. **Visibility:** Important information should be easy to find.
-3. **Accessibility:** The website should be usable by different people.
-4. **Feedback:** The system should respond clearly to user actions.
-5. **Simplicity:** The interface should be easy to understand.
+### 4. HCI Principles
+- **Visibility:** Important information should be easy to see.
+- **Consistency:** Buttons, colors, and navigation should follow a consistent style.
+- **Feedback:** The app should respond clearly when users perform an action.
+- **Error Prevention:** The design should help users avoid mistakes.
+- **User Control:** Users should be able to correct information and repeat actions easily.
 
-### 6. Recommendations
-- Improve the organization of homepage content.
-- Correct spelling and grammatical mistakes.
-- Use clear headings and readable fonts.
-- Organize announcements into categories.
-- Improve navigation and search functionality.
+### 5. Recommendations
+1. Improve the visibility of important buttons.
+2. Provide clear instructions and error messages.
+3. Make OTP verification easier.
+4. Improve order status visibility.
+5. Maintain consistent navigation and readable text.
 
-### 7. HCI Design Life Cycle
-1. Understand users and their needs.
-2. Identify user requirements.
-3. Design the interface.
-4. Evaluate usability.
-5. Improve the design using feedback.
-
-### 8. Conclusion
-This activity provided practical understanding of usability evaluation and HCI principles. A well-organized and user-friendly website helps users access information efficiently.
+### 6. Conclusion
+This activity helped me understand how Human-Computer Interaction principles are applied in a food delivery application. Evaluating different screens helped me identify possible usability problems and suggest improvements for a better user experience.
